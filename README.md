@@ -2,7 +2,7 @@
 ---------------
 ##Lanky Kong
 
-![lanky kong](lanky_kong.png)
+![lanky kong](Pictures/lanky_kong.png)
 
 http://github.com
 
